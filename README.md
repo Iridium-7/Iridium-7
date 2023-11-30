@@ -4,6 +4,6 @@ Despite my sometimes impressive skill, I am still an amateur. Probably shouldn't
 To friends who know me, this description may seem surprising and a bit gloomy. It's 100% true though.
 
 <!---
-Iridium-7/Iridium-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+What are you doing looking over here?
+Ya tryina see some secrets? Haha!
 --->
